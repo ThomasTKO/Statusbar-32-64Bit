@@ -1,3 +1,5 @@
+! Exile Status Bar by [FPS]kuplion - Based on Stats Bar by Creampie !
+
 # Statusbar-32-64Bit 
 Rename the 32bit!!!!!!!!! ExileServer_system_database_connect.sqf or 64bit!!!!!!!!! ExileServer_system_database_connect.sqf to ExileServer_system_database_connect.sqf and drop the file into the Statusbar Folder.
 
